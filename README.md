@@ -9,5 +9,5 @@ This project aims to analyze and doing Hypothesis Testing of the Bike Sales Data
 # Dashboard Link
 Link : https://public.tableau.com/app/profile/ahmad.luay.adnani/viz/h8dsft_milestone1_AhmadLuayAdnani/Dashboard1
 
-tableau_dashboard.png
+<img src="https://i.imgur.com/YMzfbvV.png"></img>
 
